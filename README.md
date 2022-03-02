@@ -1,8 +1,8 @@
 # learning_elixir
 
 
--enteros
--listas
+- enteros
+- listas
   - length, hd, tl
   - Enum: map, filter, split, sort_by, all?, zip, zip_with
 - tuplas
